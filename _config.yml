@@ -1,0 +1,28 @@
+name: Pontificaal
+favicon: null
+layout_spectrum: 0.8667849211487919
+typography_spectrum: 0.7943551202770323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2537961939815432
+  lightness: 0.619807735318318
+  saturation: 0.6168301322031766
+  rhythmicContrast: 0.3482295323628932
+purpose: []
