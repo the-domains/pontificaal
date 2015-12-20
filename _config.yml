@@ -1,7 +1,7 @@
 name: Pontificaal
 favicon: null
-layout_spectrum: 0.8667849211487919
-typography_spectrum: 0.7943551202770323
+layout_spectrum: 1
+typography_spectrum: 0.23532
 title: Pontificaal
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.2537961939815432
-  lightness: 0.619807735318318
-  saturation: 0.6168301322031766
-  rhythmicContrast: 0.3482295323628932
+    - '#feca01'
+    - '#09a0dc'
+    - '#e05312'
+    - '#a0176d'
+    - '#547e5a'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
