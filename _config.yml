@@ -1,7 +1,7 @@
 name: Pontificaal
 favicon: null
-layout_spectrum: 0.49451
-typography_spectrum: 0.23532
+layout_spectrum: 0.76288
+typography_spectrum: 0.24208
 title: Pontificaal
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#a0176d'
     - '#547e5a'
   brandStrength: 0.5
-  lightness: 0
+  lightness: 0.5
   saturation: 0.75
   rhythmicContrast: 1
 purpose: []
