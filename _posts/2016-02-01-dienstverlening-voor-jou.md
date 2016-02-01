@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Veelzijdig & kleurrijk'
-datePublished: '2016-02-01T12:33:56.844Z'
+datePublished: '2016-02-01T12:33:56.932Z'
 dateModified: '2016-02-01T12:33:54.018Z'
 title: Dienstverlening voor jou
 author: []
