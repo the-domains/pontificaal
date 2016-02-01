@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Het beste voor jouw merk
-datePublished: '2016-02-01T12:32:42.870Z'
+datePublished: '2016-02-01T12:32:43.142Z'
 dateModified: '2016-02-01T12:32:37.278Z'
 title: 'Eigenwijze marketing & communicatie van Pontificaal'
 author: []
