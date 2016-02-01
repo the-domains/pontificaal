@@ -6,28 +6,29 @@ inLanguage: null
 starred: true
 keywords: []
 description: Het beste voor jouw merk
-datePublished: '2016-02-01T12:21:13.085Z'
-dateModified: '2016-02-01T12:20:40.399Z'
+datePublished: '2016-02-01T12:32:42.870Z'
+dateModified: '2016-02-01T12:32:37.278Z'
 title: 'Eigenwijze marketing & communicatie van Pontificaal'
 author: []
+sourcePath: _posts/2016-02-01-eigenwijze-marketing-and-communicatie-van-pontificaal.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-eigenwijze-marketing-and-communicatie-van-pontificaal.md
-published: true
 url: eigenwijze-marketing-and-communicatie-van-pontificaal/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/83ddb4f8e08502c33214825f2cbbe9248ba50dcc.jpg)
+
 **_Eigenwijze marketing & communicatie van Pontificaal_**
 
 ****
 
 **Het beste voor jouw merk **
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/83ddb4f8e08502c33214825f2cbbe9248ba50dcc.jpg)
 
 Je zoekt hulp om jouw doelgroep te bereiken? Pontificaal is jouw
 kleurrijke ankerpunt. Jouw regisseur voor praktische én creatieve marketing en
